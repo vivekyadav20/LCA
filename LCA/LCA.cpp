@@ -10,6 +10,12 @@ struct node {
 };
 
 
+node* insert(node* root)
+{
+
+}
+
+
 
 int main()
 {
